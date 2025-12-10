@@ -49,9 +49,9 @@ A personal Neovim configuration optimized for productivity with a focus on moder
 ### Quick Install
 ```bash
 # Backup your existing config (if any)
-```bash mv ~/.config/nvim ~/.config/nvim.bak```
+mv ~/.config/nvim ~/.config/nvim.bak
 
 # Clone this repository
-```bash git clone https://github.com/lackyhy/LcNvim.git ~/.config/nvim```
+git clone https://github.com/lackyhy/LcNvim.git ~/.config/nvim
 # Start Neovim (plugins will auto-install)
-```bash nvim```
+nvim
